@@ -5,3 +5,4 @@ git add
 git commit
 has been pushed to github
 u-master
+Creating a new branch is quick.
